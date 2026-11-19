@@ -1,0 +1,6 @@
+{
+  "name": "Áurea Custodia — Hallazgos y Devoluciones",
+  "description": "Servicio web en negro y dorado para el registro de hallazgos, gestión de reclamos con comprobación obligatoria y devoluciones únicas con control de roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
